@@ -1,0 +1,6 @@
+PROG_ZALICZENIA:3
+1;Jaka jest stolica Polski?;Warszawa;Kraków;Gdańsk;Poznań;1
+2;Ile wynosi 3 * 3?;3;9;5;6;2
+3;Jaki jest najlepszy jezyk programowania?;JavaScript;PHP;SQL;C++;1
+4;Co jest wieksze, kolo czy trojkat?;kolo;trojkat;to zalezy; TRAPEZ;3
+5;Który pierwiastek ma symbol 'O'?;Złoto;Tlen;Ołów;Osm;2
